@@ -1,4 +1,4 @@
-# 基于 vuepress 打造的个人博客站
+# 基于 vuepress 的个人博客
 
 - 主题：[vuepress-theme-vdoing](https://dorisoy.com/)
 
