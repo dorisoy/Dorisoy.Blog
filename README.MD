@@ -14,4 +14,4 @@ npm run dev # or yarn dev
 
 # 访问地址
 
-dorisoy的博客小站：[www.dorisoy.com](https://www.dorisoy.com/)
+dorisoy的博客小站：[www.dorisoy.com](http://www.xamarin.top/)
