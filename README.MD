@@ -1,6 +1,6 @@
 # 基于 vuepress 的个人博客
 
-- 主题：[vuepress-theme-vdoing](https://dorisoy.com/)
+- 主题：[vuepress-theme-vdoing](http://www.xamarin.top/)
 
 # 快速上手
 
